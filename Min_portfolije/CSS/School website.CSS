@@ -74,7 +74,7 @@ header img {
 	margin-bottom: 0px;
 }
 .thumbnail {
-	width: 23%;
+	width: 20%;
 	text-align: center;
 	float: left;
 	margin-top: 35px;
@@ -99,6 +99,14 @@ header img {
 	color: #B3B3B3;
 	text-align: left;
 	padding-left: 20px;
+}
+.photoContainer {
+	display: inline-block;
+}
+.photoAlign {
+	display: inline;
+	float: left;
+	margin-right: 3px;
 }
 /* More info */
 .intro {
